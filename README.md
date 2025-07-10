@@ -1,0 +1,1 @@
+This project contains beginner JavaScript exercises.
